@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arun4990/Pomodoro-Timer/static/css/main.06e6c5d3.css",
+    "main.js": "/Arun4990/Pomodoro-Timer/static/js/main.e2cc44a2.js",
+    "static/js/453.304c1d08.chunk.js": "/Arun4990/Pomodoro-Timer/static/js/453.304c1d08.chunk.js",
+    "index.html": "/Arun4990/Pomodoro-Timer/index.html",
+    "main.06e6c5d3.css.map": "/Arun4990/Pomodoro-Timer/static/css/main.06e6c5d3.css.map",
+    "main.e2cc44a2.js.map": "/Arun4990/Pomodoro-Timer/static/js/main.e2cc44a2.js.map",
+    "453.304c1d08.chunk.js.map": "/Arun4990/Pomodoro-Timer/static/js/453.304c1d08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e6c5d3.css",
+    "static/js/main.e2cc44a2.js"
+  ]
+}
