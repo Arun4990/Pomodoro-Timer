@@ -1,3 +1,5 @@
+
+<img src="pomodoro.jpg" alt="this is output img" height="700px">
 A simple Pomodoro Timer built with React and styled-components to help users manage their work and break intervals efficiently.
 
 Features
